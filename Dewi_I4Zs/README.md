@@ -1,4 +1,7 @@
 # Tugas4Python
+Nama Siswa: Dewi Astuti
+Username: Dewi_I4Zs
+
 **Tugas 4 Python - Project Library Management System (LMS) Sederhana**
 **Tujuan Pengerjaan Project:**
 Membuat desain aplikasi manajemen perpustakaan untuk diakses oleh siswa Pacmann. 
